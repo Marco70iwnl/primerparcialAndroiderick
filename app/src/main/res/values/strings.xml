@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Miprimerparcial</string>
+    <string name="Button1">Button</string>
+    <string name="Button2">Button</string>
+    <string name="Switch">Switch</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Todo">TODO</string>
 </resources>
